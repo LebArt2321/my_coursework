@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\bin\Debug\Finalochka.exe
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\bin\Debug\Finalochka.pdb
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.exe
+c:\users\user\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Finalochka\Finalochka\obj\x86\Debug\Finalochka.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.exe
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.pdb
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\bin\Debug\Finalochka.exe
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\bin\Debug\Finalochka.pdb
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.Form1.resources
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.Properties.Resources.resources
+C:\Users\User\Desktop\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Учеба и что то еще\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.exe
+C:\Users\User\Desktop\Учеба и что то еще\КУРСОВАЯ 11 КЛАСС\Finalochka\Finalochka\obj\x86\Debug\Finalochka.pdb
